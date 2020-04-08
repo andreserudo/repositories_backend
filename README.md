@@ -1,8 +1,7 @@
 # Desafio 01 - Backend com NodeJs
-Projeto criado durante a participação do bootcamp da RocketSeat.🚀
+<div align="center">Projeto criado durante a participação do bootcamp da RocketSeat.🚀</div>
 </p>
 <div align="center"> <a href="#enunciado">O enunciado</a> | <a href="#funcio">Funcionalidades</a> | <a href="#project">Utilizando o projeto</a> | <a href="#import">Importando um workspace</a> | <a href="#license">License</a> </div>
-</br>
 
 
 ## <a id="enunciado">O enunciado</a>
