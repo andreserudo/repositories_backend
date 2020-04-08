@@ -32,8 +32,8 @@ Mais informações do enunciado: [Enunciado do Desafio 01](https://github.com/Ro
 ## <a id="project">Utilizando o projeto</a>
 Para utilizar o projeto você deverá:
 1. Fazer o clone do projeto;
-2. Rodar o comando yarn no diretório do repositório;
-3. Rodar o comando yarn dev no diretório;
+2. Rodar o comando `yarn` no diretório do repositório;
+3. Rodar o comando `yarn dev` no diretório clonado;
 
 Pronto! Você pode utilizar a ferramenta que preferir para validar as APIs criadas.
 A que eu utilizei foi o [Insomnia](https://insomnia.rest/).
