@@ -8,7 +8,7 @@
 
 Deverá ser construído uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, 
 atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
-O template da aplicação foi disponilizado e o desenvolvimento seguiu-se a partir do mesmo.
+O template da aplicação foi disponibilizado e o desenvolvimento seguiu-se a partir do mesmo.
 
 Mais informações do enunciado: [Enunciado do Desafio 01](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
@@ -35,6 +35,7 @@ Para utilizar o projeto você deverá:
 3. Rodar o comando `yarn dev` no diretório clonado;
 
 Pronto! Você pode utilizar a ferramenta que preferir para validar as APIs criadas.
+
 A que eu utilizei foi o [Insomnia](https://insomnia.rest/).
 
 ## <a id="import">Importando um workspace</a>
