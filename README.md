@@ -2,6 +2,7 @@
 <div align="center">Projeto criado durante a participação do bootcamp da RocketSeat.🚀</div>
 </p>
 <div align="center"> <a href="#enunciado">O enunciado</a> | <a href="#funcio">Funcionalidades</a> | <a href="#project">Utilizando o projeto</a> | <a href="#import">Importando um workspace</a> | <a href="#license">License</a> </div>
+</p>
 
 Acompanhe meus relatos do bootcamp e plano de estudos em: [Meu Relato](https://www.notion.so/GoStack-Meu-relato-7073f9bd31a6432b9e626e89c663cd2e)
 
