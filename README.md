@@ -3,6 +3,7 @@
 </p>
 <div align="center"> <a href="#enunciado">O enunciado</a> | <a href="#funcio">Funcionalidades</a> | <a href="#project">Utilizando o projeto</a> | <a href="#import">Importando um workspace</a> | <a href="#license">License</a> </div>
 
+Acompanhe meus relatos do bootcamp e plano de estudos em: [Meu Relato](https://www.notion.so/GoStack-Meu-relato-7073f9bd31a6432b9e626e89c663cd2e)
 
 ## <a id="enunciado">O enunciado</a>
 
@@ -41,6 +42,7 @@ A que eu utilizei foi o [Insomnia](https://insomnia.rest/).
 ## <a id="import">Importando um workspace</a>
 
 Veja funcionando com o Insonmia importando o arquivo json: **Desafio01 - NodeJs.json** que esta na pasta raiz.
+
 No Insomnia, você deverá: 
 1. Criar um novo workspace 
 2. Clicar na setinha pra baixo (essa aqui: ) 
