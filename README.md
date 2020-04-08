@@ -12,7 +12,7 @@ Deverá ser construído uma aplicação para armazenar repositórios do seu port
 atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 O template da aplicação foi disponibilizado e o desenvolvimento seguiu-se a partir do mesmo.
 
-Mais informações do enunciado: [Enunciado do Desafio 01](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+Mais informações do enunciado: [Enunciado do Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
 ## <a id="funcio">Requisitos</a>
 
@@ -28,7 +28,7 @@ Ao cadastrar um novo projeto, ele deve ser armazenado dentro de um objeto no seg
 
 * POST /repositories/:id/like: A rota deve aumentar o número de likes do repositório específico escolhido através do id presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
-Mais informações do enunciado: [Enunciado do Desafio 01](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+Mais informações do enunciado: [Enunciado do Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
 ## <a id="project">Utilizando o projeto</a>
 Para utilizar o projeto você deverá:
